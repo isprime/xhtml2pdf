@@ -7,6 +7,6 @@ Standards-Version: 3.9.1
 
 Package: python-xhtml2pdf
 Architecture: amd64
-Depends: python-reportlab, python-pypdf2
+Depends: python-reportlab, python-pypdf2, python-html5lib
 X-Python-Version: 2.7
 Description: HTML/CSS to PDF converter based on Python
